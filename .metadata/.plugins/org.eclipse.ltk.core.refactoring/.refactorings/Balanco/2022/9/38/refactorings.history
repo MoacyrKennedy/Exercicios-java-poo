@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Renomear o tipo &apos;br.com.residencia.poo.balanco.BalancoTrimestral&apos; para &apos;Balancotrimestral&apos;&#x0D;&#x0A;- Original project: &apos;Balanco&apos;&#x0D;&#x0A;- Elemento original: &apos;br.com.residencia.poo.balanco.BalancoTrimestral&apos;&#x0D;&#x0A;- Elemento renomeado: &apos;br.com.residencia.poo.balanco.Balancotrimestral&apos;&#x0D;&#x0A;- Atualizar referências para elemento recriado&#x0D;&#x0A;- Atualizar ocorrências textuais em comentários e cadeias" description="Renomear o tipo &apos;BalancoTrimestral&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;br.com.residencia.poo.balanco{BalancoTrimestral.java[BalancoTrimestral" matchStrategy="1" name="Balancotrimestral" qualified="false" references="true" similarDeclarations="false" stamp="1663167447696" textual="false" version="1.0"/>
+</session>

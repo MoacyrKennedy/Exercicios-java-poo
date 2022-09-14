@@ -1,0 +1,24 @@
+package br.com.residencia.poo.primeiraaula;
+import java.util.Scanner;
+public class projeto2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner leia = new Scanner (System.in);
+		
+		String nome;
+		int idade;
+		
+		System.out.println("Diga seu nome? ");
+		nome =leia.nextLine();
+		System.out.println("Olá ,"+ nome );
+		
+		System.out.println("Digite sua idade:");
+		idade = leia.nextInt();
+		System.out.println("você tem "+ idade+" anos");
+		leia.close();
+		}
+}
+	
+
+

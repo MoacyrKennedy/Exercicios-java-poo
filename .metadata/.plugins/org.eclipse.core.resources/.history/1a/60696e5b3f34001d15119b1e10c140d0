@@ -1,0 +1,10 @@
+package br.com.residencia.poo.sistemabancario;
+
+public class Conta {
+
+	public static void main(String[] args) {
+		// TODO Stub de método gerado automaticamente
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package br.com.residencia.poo.balanco;
+
+public class Balanco {
+
+	public static void main(String[] args) {
+		// TODO Stub de método gerado automaticamente
+
+	}
+
+}
